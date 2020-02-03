@@ -1,0 +1,31 @@
+[
+    {
+        "id":"0",
+        "namesurname":"Samed Karakuş",
+        "username": "1",
+        "password": "1",
+        "email":"karakusnavy@gmail.com"
+    },
+    {
+        "id":"1",
+        "namesurname":"Emre Talaslı",
+        "username": "emre123",
+        "password": "a5sd5ss5",
+        "email":"talasli@gmail.com"
+    },
+    {
+        "id":"2",
+        "namesurname":"Efe Mazlumoğlu",
+        "username": "efe99",
+        "password": "12369874",
+        "email":"efe@gmail.com"
+    },
+    {
+        "id":"3",
+        "namesurname":"Mahmut Tuncer",
+        "username": "halay_kralı",
+        "password": "tuncershow",
+        "email":"mahmut@gmail.com"
+    }
+
+]
